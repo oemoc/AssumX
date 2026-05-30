@@ -1,4 +1,7 @@
-
+@font-face {
+    font-family: Impact, 
+    Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    src: url("C:\Windows\Fonts\impact.ttf") format("ttf")
 
 .bg1 {
     position: fixed;
